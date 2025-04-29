@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "ipykernel>=6.29.5",
     "kagglehub>=0.3.12",
+    "matplotlib>=3.10.1",
+    "pymc3>=3.11.4",
 ]
